@@ -3,6 +3,30 @@
 Project Overview
 This project features a multi-page interactive dashboard designed to analyze and visualize the performance of a digital payment ecosystem. It tracks key performance indicators (KPIs) like total transaction volume, success rates, and revenue across four major service verticals: Loans, Insurance, Money Transfers, and Bill Recharges. By segmenting data by age groups, payment status, and failure reasons, the dashboard provides actionable insights into user behavior and system reliability. The inclusion of time-series analysis helps in identifying seasonal trends and monthly growth patterns across different financial products.
 
+STEPS IN PROJECT:-
+
+1.Requirement Gathering/ Business Requirements
+
+2.Data Walkthrough
+
+3.Data Connection
+
+4.Data Cleaning / Quality Check
+
+5.Data Modeling
+
+6.Data Processing
+
+7.DAX Calculations
+
+8.Dashboard Lay-outing
+
+9.Charts Development and Formatting
+
+10.Dashboard / Report Development
+
+11.Insights Generation
+
 Strategic Business Questions
 Here are the critical business questions your dashboard is designed to answer, categorized by the pages you created:
 
